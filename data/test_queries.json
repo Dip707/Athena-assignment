@@ -1,0 +1,42 @@
+[
+  {
+    "query": "Gaming keyboard under ₹5000",
+    "notes": "Price-filtered keyword query. Tests: BM25 matching on 'gaming keyboard' + price range filtering. Should match ~30+ products including IDs like 2, 6, 10, 12, etc. with prices < 5000."
+  },
+  {
+    "query": "Gift cards for PlayStation",
+    "notes": "Vocabulary variation test. Some products say 'PlayStation gift card' (ID 36), others say 'PSN Wallet' (ID 37) or 'PlayStation Store credit' (ID 38). Tests semantic matching for synonyms. Should match gift card products but exclude Xbox/Steam."
+  },
+  {
+    "query": "Budget mechanical keyboard",
+    "notes": "Budget adjective + mechanical keyword test. Should return products like IDs 2, 6, 10 using both terms, plus others using synonyms like 'inexpensive', 'affordable', 'low-cost' paired with 'mechanical'."
+  },
+  {
+    "query": "Mechanical keyboard",
+    "notes": "Pure keyword query. Tests BM25 on exact term match. Should return ~60+ keyboard products, though some vary vocabulary (e.g., 'tactical', 'clicky', 'tactile', 'optical', 'wireless' without explicit 'mechanical')."
+  },
+  {
+    "query": "Clicky switches keyboard",
+    "notes": "Synonym variation test. Products using 'clicky switches' (IDs 2, 10, 83) should match alongside those saying 'mechanical keyboard' or 'blue switches'. Tests semantic understanding of switch types."
+  },
+  {
+    "query": "PSN wallet top-up under 2000",
+    "notes": "Vocabulary + price filter. PSN/PlayStation nomenclature variant. Should match gift card products like ID 37 (₹1000) but exclude ID 38 (₹2000) and higher due to price constraint. Tests non-standard product naming."
+  },
+  {
+    "query": "Gaming mouse under 2000",
+    "notes": "Different category with price filter. Should return budget gaming mice like IDs 20 (₹899), 24 (₹1599), 156 (₹899), 220 (₹1499). Tests cross-category search and price filtering on non-keyboard items."
+  },
+  {
+    "query": "Headset surround sound",
+    "notes": "Feature-based query. Should match headsets with surround sound specifications like IDs 25 (7.1), 145 (5.1), 185 (virtual 7.1). Tests semantic matching on technical specifications."
+  },
+  {
+    "query": "Gaming chair ergonomic under 15000",
+    "notes": "Multi-feature query with price. Should match ergonomic gaming chairs like IDs 51 (₹12999), 123 (₹14999), 211 (₹12999). Tests field-specific filtering + vocabulary variation."
+  },
+  {
+    "query": "Dishwasher",
+    "notes": "No-match baseline test. Query outside gaming/electronics domain should return zero or near-zero relevant results, validating that search correctly filters for product catalog relevance."
+  }
+]

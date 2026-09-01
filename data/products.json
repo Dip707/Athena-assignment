@@ -1,0 +1,1577 @@
+[
+  {
+    "id": 1,
+    "title": "Mechanical Gaming Keyboard RGB",
+    "description": "Professional-grade mechanical gaming keyboard with customizable RGB lighting and hot-swappable switches. Features full programmable keys and built-in macro support.",
+    "category": "Gaming Keyboards",
+    "price": 4599
+  },
+  {
+    "id": 2,
+    "title": "Budget Clicky Keyboard for Gaming",
+    "description": "Affordable gaming keyboard with responsive clicky switches perfect for competitive play. Compact design with per-key RGB customization.",
+    "category": "Gaming Keyboards",
+    "price": 3199
+  },
+  {
+    "id": 3,
+    "title": "Premium Tactile Mechanical Gaming Board",
+    "description": "High-end gaming keyboard with tactile linear switches, aluminum case, and wireless connectivity via 2.4GHz USB adapter. Experience millisecond response times.",
+    "category": "Gaming Keyboards",
+    "price": 7899
+  },
+  {
+    "id": 4,
+    "title": "Wireless Gaming Keyboard with Red Switches",
+    "description": "Cordless mechanical gaming keyboard featuring cherry MX-style red switches for smooth, linear keystrokes. 60% compact layout with battery life up to 8 months.",
+    "category": "Gaming Keyboards",
+    "price": 5299
+  },
+  {
+    "id": 5,
+    "title": "Membrane Keyboard Gaming Bundle",
+    "description": "Budget-friendly gaming keyboard with responsive membrane switches and bright backlit keys. Ideal entry point for casual gamers.",
+    "category": "Gaming Keyboards",
+    "price": 1899
+  },
+  {
+    "id": 6,
+    "title": "Ultra-Low Price Mechanical Keyboard",
+    "description": "Affordable mechanical gaming keyboard with blue switches, full RGB, and macro keys. Great value for the price.",
+    "category": "Gaming Keyboards",
+    "price": 2499
+  },
+  {
+    "id": 7,
+    "title": "RGB Mechanical Gaming Keyboard Pro",
+    "description": "Professional gaming keyboard with customizable switches and individual key lighting. USB-C connection with on-the-fly macro recording.",
+    "category": "Gaming Keyboards",
+    "price": 6299
+  },
+  {
+    "id": 8,
+    "title": "Compact Gaming Keyboard with Tactile Feedback",
+    "description": "Space-saving 60% keyboard designed for gaming with tactile brown switches and programmable layers. Perfect for streamers and esports players.",
+    "category": "Gaming Keyboards",
+    "price": 4199
+  },
+  {
+    "id": 9,
+    "title": "Gaming Keyboard with Cherry MX Switches",
+    "description": "Premium mechanical keyboard featuring genuine cherry MX mechanical switches in a full-size layout. Durable ABS keycaps with side-printed legends.",
+    "category": "Gaming Keyboards",
+    "price": 5899
+  },
+  {
+    "id": 10,
+    "title": "Affordable Clicky Mechanical Board",
+    "description": "Entry-level gaming keyboard with clicky switches, blue backlight, and durable construction. Perfect for budget-conscious gamers.",
+    "category": "Gaming Keyboards",
+    "price": 2799
+  },
+  {
+    "id": 11,
+    "title": "Wireless Mechanical Gaming Keyboard Silent",
+    "description": "Silent mechanical gaming keyboard with wireless 2.4GHz connectivity and rechargeable battery. Ideal for late-night gaming sessions.",
+    "category": "Gaming Keyboards",
+    "price": 6499
+  },
+  {
+    "id": 12,
+    "title": "Gaming Keyboard Budget Under 3000",
+    "description": "Pocket-friendly gaming keyboard with LED backlight and responsive keys. Great starter keyboard for new gamers.",
+    "category": "Gaming Keyboards",
+    "price": 2299
+  },
+  {
+    "id": 13,
+    "title": "Mechanical Keyboard with Linear Switches",
+    "description": "Smooth linear mechanical switches provide consistent keystroke experience perfect for gaming. Includes programmable RGB and macro support.",
+    "category": "Gaming Keyboards",
+    "price": 4899
+  },
+  {
+    "id": 14,
+    "title": "High-Speed Mechanical Gaming Keyboard",
+    "description": "Fast-actuation mechanical keyboard with optical switches delivering ultra-responsive gaming performance. Full programmable RGB per-key lighting.",
+    "category": "Gaming Keyboards",
+    "price": 7299
+  },
+  {
+    "id": 15,
+    "title": "Inexpensive Gaming Keyboard with Blue Backlight",
+    "description": "Low-cost gaming keyboard with membrane keys and cool blue LED illumination. Durable rubber dome switches for reliable performance.",
+    "category": "Gaming Keyboards",
+    "price": 1599
+  },
+  {
+    "id": 16,
+    "title": "Tactical Mechanical Keyboard for Esports",
+    "description": "Competition-grade mechanical keyboard with customizable switches and detachable USB cable. Tournament-tested reliability and precision.",
+    "category": "Gaming Keyboards",
+    "price": 5499
+  },
+  {
+    "id": 17,
+    "title": "Gaming Mouse Precision Sensor",
+    "description": "High-precision gaming mouse with 16,000 DPI sensor, programmable side buttons, and ergonomic right-handed design. Features customizable RGB lighting.",
+    "category": "Gaming Mice",
+    "price": 2599
+  },
+  {
+    "id": 18,
+    "title": "Wireless Gaming Mouse Lightweight",
+    "description": "Ultra-lightweight wireless gaming mouse with 2.4GHz USB receiver and rechargeable battery. Perfect for FPS and MOBA games.",
+    "category": "Gaming Mice",
+    "price": 3299
+  },
+  {
+    "id": 19,
+    "title": "Gaming Mouse with Side Buttons",
+    "description": "Ergonomic gaming mouse featuring 9 programmable side buttons and adjustable weight. Responsive optical sensor with 12,000 DPI capability.",
+    "category": "Gaming Mice",
+    "price": 1899
+  },
+  {
+    "id": 20,
+    "title": "Budget Gaming Mouse Under 1000",
+    "description": "Affordable gaming mouse with decent tracking precision and basic RGB lighting. Ideal for entry-level gaming enthusiasts.",
+    "category": "Gaming Mice",
+    "price": 899
+  },
+  {
+    "id": 21,
+    "title": "Pro Gaming Mouse Esports",
+    "description": "Tournament-grade gaming mouse used by professional esports players. Ultra-responsive sensor with 20,000 DPI and minimal latency.",
+    "category": "Gaming Mice",
+    "price": 4199
+  },
+  {
+    "id": 22,
+    "title": "Gaming Mouse Ambidextrous Design",
+    "description": "Symmetrical gaming mouse suitable for both left and right-handed players. Features customizable buttons and precision tracking sensor.",
+    "category": "Gaming Mice",
+    "price": 2199
+  },
+  {
+    "id": 23,
+    "title": "RGB Gaming Mouse with Macro Keys",
+    "description": "Gaming mouse with customizable RGB lighting and programmable macro buttons. Comfortable grip with responsive sensor technology.",
+    "category": "Gaming Mice",
+    "price": 2799
+  },
+  {
+    "id": 24,
+    "title": "Wired Gaming Mouse High Precision",
+    "description": "High-performance wired gaming mouse with zero-lag connection and ultra-sensitive tracking. Perfect for competitive gaming.",
+    "category": "Gaming Mice",
+    "price": 1599
+  },
+  {
+    "id": 25,
+    "title": "Gaming Headset Surround Sound",
+    "description": "Immersive 7.1 surround sound gaming headset with noise-cancelling microphone and comfortable over-ear design. Compatible with all gaming platforms.",
+    "category": "Gaming Headsets",
+    "price": 3899
+  },
+  {
+    "id": 26,
+    "title": "Budget Gaming Headset Stereo",
+    "description": "Affordable gaming headset with clear stereo sound and removable microphone. Lightweight design perfect for extended gaming sessions.",
+    "category": "Gaming Headsets",
+    "price": 1299
+  },
+  {
+    "id": 27,
+    "title": "Wireless Gaming Headset 2.4GHz",
+    "description": "Cordless gaming headset with 2.4GHz USB receiver and up to 20 hours battery life. Features cooling gel ear cushions for comfort.",
+    "category": "Gaming Headsets",
+    "price": 4299
+  },
+  {
+    "id": 28,
+    "title": "Gaming Headset with Noise Cancellation",
+    "description": "Premium gaming headset featuring active noise cancellation and spatial audio technology. Dual wireless and wired connectivity options.",
+    "category": "Gaming Headsets",
+    "price": 5499
+  },
+  {
+    "id": 29,
+    "title": "Compact Gaming Headset Travel-Friendly",
+    "description": "Portable gaming headset with foldable design and inline microphone controls. Great for gaming on the go with excellent sound quality.",
+    "category": "Gaming Headsets",
+    "price": 1899
+  },
+  {
+    "id": 30,
+    "title": "Gaming Headset Pro RGB Lighting",
+    "description": "Professional-grade gaming headset with RGB lighting synchronization and dedicated bass boost. Modular design allows microphone customization.",
+    "category": "Gaming Headsets",
+    "price": 4799
+  },
+  {
+    "id": 31,
+    "title": "PlayStation Controller DualSense",
+    "description": "Next-gen PlayStation controller with haptic feedback, adaptive triggers, and built-in microphone. Features gyro aiming for enhanced gameplay.",
+    "category": "Gaming Controllers",
+    "price": 5499
+  },
+  {
+    "id": 32,
+    "title": "Xbox Series X Controller",
+    "description": "Premium Xbox controller with textured grip surfaces and impulse triggers. Seamless compatibility with Xbox and PC gaming.",
+    "category": "Gaming Controllers",
+    "price": 4999
+  },
+  {
+    "id": 33,
+    "title": "Budget Wireless Gaming Controller",
+    "description": "Affordable wireless controller compatible with PC and multiple gaming platforms. Responsive buttons with extended battery life.",
+    "category": "Gaming Controllers",
+    "price": 1599
+  },
+  {
+    "id": 34,
+    "title": "Pro Gaming Controller Tournament Grade",
+    "description": "Tournament-approved gaming controller with precision analog sticks and optimized button response. Used in professional esports competitions.",
+    "category": "Gaming Controllers",
+    "price": 6299
+  },
+  {
+    "id": 35,
+    "title": "Gaming Controller with Customizable Buttons",
+    "description": "Modular gaming controller featuring programmable buttons and interchangeable stick modules. Perfect for competitive and casual gaming.",
+    "category": "Gaming Controllers",
+    "price": 3699
+  },
+  {
+    "id": 36,
+    "title": "PlayStation Gift Card 500",
+    "description": "₹500 PlayStation Store digital credit for purchasing games, DLC, and other content directly from the PlayStation Store.",
+    "category": "Gift Cards",
+    "price": 500
+  },
+  {
+    "id": 37,
+    "title": "PSN Wallet Top-up 1000",
+    "description": "₹1000 PlayStation Network wallet credit for buying games and in-game content. Instant digital delivery to your PSN account.",
+    "category": "Gift Cards",
+    "price": 1000
+  },
+  {
+    "id": 38,
+    "title": "PlayStation Store Credit 2000",
+    "description": "₹2000 PlayStation Store voucher for digital game purchases and subscriptions. Easy redemption via your PlayStation account.",
+    "category": "Gift Cards",
+    "price": 2000
+  },
+  {
+    "id": 39,
+    "title": "PSN Balance Top-up 5000",
+    "description": "₹5000 PlayStation Network balance instant credit. Perfect for purchasing multiple games or premium subscriptions.",
+    "category": "Gift Cards",
+    "price": 5000
+  },
+  {
+    "id": 40,
+    "title": "Xbox Game Pass Ultimate Card",
+    "description": "₹2000 Xbox Game Pass Ultimate subscription card providing access to hundreds of games and cloud gaming services.",
+    "category": "Gift Cards",
+    "price": 2000
+  },
+  {
+    "id": 41,
+    "title": "Xbox Live Credits 1000",
+    "description": "₹1000 Microsoft Store credit for Xbox games, DLC, and entertainment content on Xbox ecosystem.",
+    "category": "Gift Cards",
+    "price": 1000
+  },
+  {
+    "id": 42,
+    "title": "Steam Wallet Code 500",
+    "description": "₹500 Steam wallet funds for purchasing PC games, in-game items, and DLC from the Steam platform.",
+    "category": "Gift Cards",
+    "price": 500
+  },
+  {
+    "id": 43,
+    "title": "Steam Game Voucher 2000",
+    "description": "₹2000 Steam platform credit. Use it to buy the latest games and DLC from one of the world's largest PC game libraries.",
+    "category": "Gift Cards",
+    "price": 2000
+  },
+  {
+    "id": 44,
+    "title": "Google Play Store Credit 1000",
+    "description": "₹1000 Google Play balance for purchasing apps, games, and digital content on Android devices.",
+    "category": "Gift Cards",
+    "price": 1000
+  },
+  {
+    "id": 45,
+    "title": "Amazon Pay Digital Voucher 2000",
+    "description": "₹2000 Amazon Pay balance that can be used for purchases across Amazon and partnered merchants.",
+    "category": "Gift Cards",
+    "price": 2000
+  },
+  {
+    "id": 46,
+    "title": "Gaming Monitor 144Hz 27-inch",
+    "description": "High-refresh-rate gaming monitor with 144Hz refresh rate and 1ms response time. Features AMD FreeSync technology for smooth gameplay.",
+    "category": "Gaming Monitors",
+    "price": 15999
+  },
+  {
+    "id": 47,
+    "title": "Gaming Monitor 240Hz Competitive",
+    "description": "Ultra-fast 240Hz gaming monitor designed for competitive esports. 0.5ms response time and 27-inch 1080p display for maximum smoothness.",
+    "category": "Gaming Monitors",
+    "price": 24999
+  },
+  {
+    "id": 48,
+    "title": "Curved Gaming Monitor 165Hz",
+    "description": "Immersive curved 27-inch gaming monitor with 165Hz refresh rate and 2K resolution. Features adaptive sync and gaming-focused color calibration.",
+    "category": "Gaming Monitors",
+    "price": 19999
+  },
+  {
+    "id": 49,
+    "title": "Budget Gaming Monitor 60Hz",
+    "description": "Affordable 24-inch gaming monitor with standard 60Hz refresh rate and basic connectivity options. Suitable for casual gaming.",
+    "category": "Gaming Monitors",
+    "price": 8999
+  },
+  {
+    "id": 50,
+    "title": "Gaming Monitor 4K 60Hz Premium",
+    "description": "Ultra-high-definition 4K gaming monitor with stunning visual clarity and wide color gamut. Perfect for immersive single-player games.",
+    "category": "Gaming Monitors",
+    "price": 35999
+  },
+  {
+    "id": 51,
+    "title": "Gaming Chair Ergonomic",
+    "description": "Professional-grade gaming chair with lumbar support, adjustable armrests, and reclining backrest. High-density foam padding for all-day comfort.",
+    "category": "Gaming Chairs",
+    "price": 12999
+  },
+  {
+    "id": 52,
+    "title": "Budget Gaming Chair Basic",
+    "description": "Entry-level gaming chair with simple design and comfortable cushioning. Tilt and height adjustable for extended gaming sessions.",
+    "category": "Gaming Chairs",
+    "price": 5999
+  },
+  {
+    "id": 53,
+    "title": "Premium Gaming Chair Racing Style",
+    "description": "High-end gaming chair with racing-inspired design, premium leather upholstery, and multi-directional adjustments. Includes memory foam pillows.",
+    "category": "Gaming Chairs",
+    "price": 19999
+  },
+  {
+    "id": 54,
+    "title": "Gaming Chair with RGB Lighting",
+    "description": "Gaming chair featuring built-in RGB lighting, adjustable recline, and synchronized lighting with gaming peripherals.",
+    "category": "Gaming Chairs",
+    "price": 11999
+  },
+  {
+    "id": 55,
+    "title": "Compact Gaming Chair Small Space",
+    "description": "Space-efficient gaming chair designed for smaller rooms. Maintains ergonomic support while minimizing footprint.",
+    "category": "Gaming Chairs",
+    "price": 7999
+  },
+  {
+    "id": 56,
+    "title": "Gaming Laptop RTX 3070",
+    "description": "Powerful gaming laptop with NVIDIA RTX 3070 GPU, 16GB RAM, and 512GB SSD. Display features 144Hz refresh rate for smooth gaming.",
+    "category": "Gaming Laptops",
+    "price": 99999
+  },
+  {
+    "id": 57,
+    "title": "Entry-Level Gaming Laptop Budget",
+    "description": "Affordable gaming laptop with decent performance for casual gaming. Includes integrated graphics and sufficient RAM for light tasks.",
+    "category": "Gaming Laptops",
+    "price": 39999
+  },
+  {
+    "id": 58,
+    "title": "High-Performance Gaming Desktop RTX 4080",
+    "description": "Top-tier gaming desktop with NVIDIA RTX 4080, Intel i9 processor, and 32GB RAM. Built for 4K gaming and content creation.",
+    "category": "Gaming Desktops",
+    "price": 249999
+  },
+  {
+    "id": 59,
+    "title": "Mid-Range Gaming Desktop",
+    "description": "Well-balanced gaming desktop with RTX 3060, Ryzen 5 processor, and 16GB RAM. Great for 1440p gaming.",
+    "category": "Gaming Desktops",
+    "price": 59999
+  },
+  {
+    "id": 60,
+    "title": "Gaming Mouse Pad Extended XL",
+    "description": "Large extended mouse pad providing ample space for both keyboard and mouse. Non-slip rubber base and smooth surface for precision gaming.",
+    "category": "Gaming Accessories",
+    "price": 1299
+  },
+  {
+    "id": 61,
+    "title": "Mechanical Keyboard Wrist Rest",
+    "description": "Ergonomic wrist rest pad designed for mechanical keyboards. Provides comfort during long gaming and typing sessions.",
+    "category": "Gaming Accessories",
+    "price": 799
+  },
+  {
+    "id": 62,
+    "title": "Gaming Cable Management Kit",
+    "description": "Complete cable organization system for gaming setups. Includes clips, ties, and conduits for a clean desk aesthetic.",
+    "category": "Gaming Accessories",
+    "price": 699
+  },
+  {
+    "id": 63,
+    "title": "RGB Desk Lighting Gaming Setup",
+    "description": "Ambient RGB lighting strips perfect for gaming setup aesthetics. Synchronized with gaming peripherals for immersive lighting effects.",
+    "category": "Gaming Accessories",
+    "price": 2299
+  },
+  {
+    "id": 64,
+    "title": "Gaming Monitor Mount Arm",
+    "description": "Adjustable monitor arm mount for improved ergonomics and desk space management. Supports up to 27-inch monitors.",
+    "category": "Gaming Accessories",
+    "price": 3499
+  },
+  {
+    "id": 65,
+    "title": "Mechanical Keyboard Keycap Set",
+    "description": "Premium keycap set for mechanical keyboards featuring durable ABS material and custom gaming designs.",
+    "category": "Gaming Accessories",
+    "price": 2199
+  },
+  {
+    "id": 66,
+    "title": "Wireless Charging Pad for Gaming",
+    "description": "Fast wireless charging pad compatible with modern smartphones and gaming controllers. Sleek design fits gaming setups.",
+    "category": "Gaming Accessories",
+    "price": 1499
+  },
+  {
+    "id": 67,
+    "title": "Gaming Desk RGB Integration",
+    "description": "Spacious gaming desk with built-in RGB lighting integration and cable management system. Sturdy construction for heavy equipment.",
+    "category": "Gaming Furniture",
+    "price": 16999
+  },
+  {
+    "id": 68,
+    "title": "Gaming Desk Compact",
+    "description": "Compact gaming desk perfect for small rooms while providing adequate space for peripherals and monitors.",
+    "category": "Gaming Furniture",
+    "price": 7999
+  },
+  {
+    "id": 69,
+    "title": "Laptop Stand Gaming Cooling",
+    "description": "Elevated laptop stand with built-in cooling fans to prevent thermal throttling during intense gaming sessions.",
+    "category": "Gaming Furniture",
+    "price": 3499
+  },
+  {
+    "id": 70,
+    "title": "Gaming Backpack Tactical",
+    "description": "Durable gaming backpack with compartments for keyboard, mouse, and gaming laptops. Water-resistant material for outdoor gaming.",
+    "category": "Gaming Accessories",
+    "price": 4999
+  },
+  {
+    "id": 71,
+    "title": "Tactical Keyboard Case Hard",
+    "description": "Protective hard case for gaming keyboards during travel. Shock-absorbing interior keeps equipment safe.",
+    "category": "Gaming Accessories",
+    "price": 2799
+  },
+  {
+    "id": 72,
+    "title": "Gaming Router Mesh Network",
+    "description": "High-performance gaming router optimized for low-latency online gaming. Tri-band mesh network for extended coverage.",
+    "category": "Gaming Network",
+    "price": 12999
+  },
+  {
+    "id": 73,
+    "title": "Mechanical Switch Tester Kit",
+    "description": "Sample kit of various mechanical switch types for testing before purchasing a full keyboard. Includes blues, reds, and browns.",
+    "category": "Gaming Accessories",
+    "price": 599
+  },
+  {
+    "id": 74,
+    "title": "Gaming Keyboard Stabilizers Upgrade",
+    "description": "Replacement stabilizers for gaming keyboards providing improved spacebar and shift key performance.",
+    "category": "Gaming Accessories",
+    "price": 1299
+  },
+  {
+    "id": 75,
+    "title": "Smartphone Gaming Mount Holder",
+    "description": "Adjustable smartphone holder for mobile gaming. Flexible arms accommodate various phone sizes.",
+    "category": "Gaming Accessories",
+    "price": 599
+  },
+  {
+    "id": 76,
+    "title": "Gaming Controller Charging Dock",
+    "description": "Fast-charging dock for gaming controllers with simultaneous dual-controller charging capability.",
+    "category": "Gaming Accessories",
+    "price": 1899
+  },
+  {
+    "id": 77,
+    "title": "Mechanical Keyboard Lube Lubricant",
+    "description": "Smooth lubricant specifically formulated for mechanical keyboard switches to reduce friction and noise.",
+    "category": "Gaming Accessories",
+    "price": 699
+  },
+  {
+    "id": 78,
+    "title": "Gaming Setup Complete Bundle",
+    "description": "All-in-one gaming bundle including keyboard, mouse, headset, and mousepad. Great value bundle for new gamers.",
+    "category": "Gaming Bundles",
+    "price": 8999
+  },
+  {
+    "id": 79,
+    "title": "Professional Streaming Bundle Gaming",
+    "description": "Complete streaming setup with gaming peripherals and streaming equipment for content creators.",
+    "category": "Gaming Bundles",
+    "price": 24999
+  },
+  {
+    "id": 80,
+    "title": "Casual Gaming Starter Pack",
+    "description": "Budget-friendly gaming bundle perfect for beginners including basic peripherals and accessories.",
+    "category": "Gaming Bundles",
+    "price": 4999
+  },
+  {
+    "id": 81,
+    "title": "Wireless Keyboard and Mouse Combo",
+    "description": "Cordless keyboard and mouse set with unified 2.4GHz receiver. Ideal for desktop gaming with minimal cable clutter.",
+    "category": "Gaming Keyboards",
+    "price": 3899
+  },
+  {
+    "id": 82,
+    "title": "Mechanical Keyboard Hot Swap Switches",
+    "description": "Modular gaming keyboard with hot-swappable switch sockets. Easy switch replacement without soldering for customization.",
+    "category": "Gaming Keyboards",
+    "price": 5199
+  },
+  {
+    "id": 83,
+    "title": "Clicky Switch Mechanical Board Budget",
+    "description": "Budget mechanical keyboard with satisfying clicky brown switches ideal for typing and gaming.",
+    "category": "Gaming Keyboards",
+    "price": 3299
+  },
+  {
+    "id": 84,
+    "title": "Gaming Keyboard Quieter Smooth Keys",
+    "description": "Silent gaming keyboard with smooth linear switches perfect for quiet environments and streaming.",
+    "category": "Gaming Keyboards",
+    "price": 4699
+  },
+  {
+    "id": 85,
+    "title": "LED Gaming Keyboard Rainbow Effects",
+    "description": "Vibrant RGB gaming keyboard with rainbow lighting effects and gaming-optimized key layout.",
+    "category": "Gaming Keyboards",
+    "price": 2599
+  },
+  {
+    "id": 86,
+    "title": "Budget Book The Fundamentals of Gaming",
+    "description": "Comprehensive guide covering gaming strategies, hardware selection, and optimization techniques for competitive gamers.",
+    "category": "Books",
+    "price": 599
+  },
+  {
+    "id": 87,
+    "title": "Advanced Game Design Techniques Book",
+    "description": "Professional resource for game developers and designers exploring advanced mechanics and storytelling in modern games.",
+    "category": "Books",
+    "price": 1299
+  },
+  {
+    "id": 88,
+    "title": "Kitchen Blender Smoothie Maker",
+    "description": "High-power kitchen blender perfect for making smoothies, soups, and nut butters. Multiple speed settings and durable construction.",
+    "category": "Kitchen Appliances",
+    "price": 3499
+  },
+  {
+    "id": 89,
+    "title": "Coffee Maker Programmable Timer",
+    "description": "Automatic coffee maker with programmable brewing timer and temperature control. Brews up to 12 cups.",
+    "category": "Kitchen Appliances",
+    "price": 2299
+  },
+  {
+    "id": 90,
+    "title": "Microwave Oven Convection",
+    "description": "Multi-functional microwave oven with convection heating and multiple cooking presets for versatile meal preparation.",
+    "category": "Kitchen Appliances",
+    "price": 8999
+  },
+  {
+    "id": 91,
+    "title": "Toaster 4-Slice Stainless Steel",
+    "description": "Heavy-duty toaster with 4-slice capacity, adjustable browning settings, and crumb tray for easy cleaning.",
+    "category": "Kitchen Appliances",
+    "price": 1799
+  },
+  {
+    "id": 92,
+    "title": "Air Fryer Healthy Cooking",
+    "description": "Modern air fryer using rapid air circulation technology for healthier fried food preparation with minimal oil.",
+    "category": "Kitchen Appliances",
+    "price": 6999
+  },
+  {
+    "id": 93,
+    "title": "Gaming Monitor 75Hz Value",
+    "description": "Budget gaming monitor with 75Hz refresh rate and IPS panel for vibrant colors. Good entry-level option for gaming.",
+    "category": "Gaming Monitors",
+    "price": 9999
+  },
+  {
+    "id": 94,
+    "title": "Keyboard and Mouse Wireless Bundle Gaming",
+    "description": "Wireless gaming combo with responsive mechanical-feel switches on keyboard and precision tracking on mouse.",
+    "category": "Gaming Keyboards",
+    "price": 4299
+  },
+    {
+    "id": 95,
+    "title": "Gaming Keyboard Programmable Macro Keys",
+    "description": "Advanced gaming keyboard with 18 programmable macro keys for complex gaming commands and automation.",
+    "category": "Gaming Keyboards",
+    "price": 6999
+  },
+  {
+    "id": 96,
+    "title": "Tactile Brown Switch Gaming Board",
+    "description": "Gaming keyboard featuring responsive tactile brown switches providing excellent feedback for both gaming and typing.",
+    "category": "Gaming Keyboards",
+    "price": 3599
+  },
+  {
+    "id": 97,
+    "title": "Red Switch Linear Keyboard Professional",
+    "description": "Professional-grade gaming keyboard with smooth red linear switches and millisecond response time for competitive play.",
+    "category": "Gaming Keyboards",
+    "price": 6199
+  },
+  {
+    "id": 98,
+    "title": "Gaming Keyboard USB-C Connectivity",
+    "description": "Modern gaming keyboard featuring USB-C connection for universal device compatibility and faster data transfer.",
+    "category": "Gaming Keyboards",
+    "price": 5599
+  },
+  {
+    "id": 99,
+    "title": "Budget Keyboard Low Price Gaming",
+    "description": "Ultra-affordable gaming keyboard with responsive membrane switches perfect for budget-conscious gamers.",
+    "category": "Gaming Keyboards",
+    "price": 1299
+  },
+  {
+    "id": 100,
+    "title": "Gaming Keyboard Compact 65 Percent",
+    "description": "Space-saving 65% mechanical gaming keyboard with all essential keys in reduced form factor for portable gaming.",
+    "category": "Gaming Keyboards",
+    "price": 4399
+  },
+  {
+    "id": 101,
+    "title": "LED Backlit Keyboard Gaming",
+    "description": "Gaming keyboard with customizable LED backlighting allowing per-key color adjustment for personalized aesthetics.",
+    "category": "Gaming Keyboards",
+    "price": 2899
+  },
+  {
+    "id": 102,
+    "title": "Mechanical Keyboard Gasket Mount",
+    "description": "Advanced gaming keyboard with gasket-mounted stabilizers providing smooth and controlled keystroke experience.",
+    "category": "Gaming Keyboards",
+    "price": 7599
+  },
+  {
+    "id": 103,
+    "title": "Gaming Mouse Ergonomic Right Hand",
+    "description": "Ergonomic gaming mouse optimized for right-handed players with contoured palm rest and responsive buttons.",
+    "category": "Gaming Mice",
+    "price": 2299
+  },
+  {
+    "id": 104,
+    "title": "Gaming Mouse Claw Grip Design",
+    "description": "Compact gaming mouse perfect for claw grip players with customizable button configuration for FPS gaming.",
+    "category": "Gaming Mice",
+    "price": 1799
+  },
+  {
+    "id": 105,
+    "title": "Gaming Mouse with Heavy Weight",
+    "description": "Gaming mouse featuring adjustable weight system allowing gamers to customize mouse heaviness to preference.",
+    "category": "Gaming Mice",
+    "price": 3599
+  },
+  {
+    "id": 106,
+    "title": "Gaming Headset with Chat Mix",
+    "description": "Gaming headset featuring separate game and chat audio mixing for stream-friendly communication during play.",
+    "category": "Gaming Headsets",
+    "price": 5999
+  },
+  {
+    "id": 107,
+    "title": "Gaming Headset Lightweight Design",
+    "description": "Ultra-lightweight gaming headset reducing neck strain during marathons gaming sessions with premium comfort padding.",
+    "category": "Gaming Headsets",
+    "price": 2699
+  },
+  {
+    "id": 108,
+    "title": "Gaming Headset with Extended Boom Mic",
+    "description": "Gaming headset with adjustable boom microphone providing clear communication for team-based gaming.",
+    "category": "Gaming Headsets",
+    "price": 1999
+  },
+  {
+    "id": 109,
+    "title": "PlayStation 5 Console Accessory Bundle",
+    "description": "Complete accessory bundle for PS5 including controller charging station, controller covers, and protective case.",
+    "category": "Gaming Accessories",
+    "price": 4999
+  },
+  {
+    "id": 110,
+    "title": "Xbox Series X Protective Case",
+    "description": "Durable protective case for Xbox Series X console with carrying handles and shock-absorbing material.",
+    "category": "Gaming Accessories",
+    "price": 1999
+  },
+  {
+    "id": 111,
+    "title": "Gaming Keyboard with Aluminum Frame",
+    "description": "Premium gaming keyboard with solid aluminum chassis providing durability and premium feel for competitive gamers.",
+    "category": "Gaming Keyboards",
+    "price": 8199
+  },
+  {
+    "id": 112,
+    "title": "Portable Gaming Monitor 15.6-inch",
+    "description": "Compact portable gaming monitor with USB-C connectivity and 144Hz refresh rate for gaming on the go.",
+    "category": "Gaming Monitors",
+    "price": 12999
+  },
+  {
+    "id": 113,
+    "title": "Gaming Mouse Braided Cable",
+    "description": "Gaming mouse with premium braided USB cable providing durability and flexibility during competitive play.",
+    "category": "Gaming Mice",
+    "price": 1999
+  },
+  {
+    "id": 114,
+    "title": "Gaming Controller Back Buttons",
+    "description": "Gaming controller featuring extra back paddle buttons enabling advanced control schemes in competitive games.",
+    "category": "Gaming Controllers",
+    "price": 3299
+  },
+  {
+    "id": 115,
+    "title": "Refurbished Gaming Keyboard Mechanical",
+    "description": "Certified refurbished mechanical gaming keyboard at discounted price with full warranty coverage.",
+    "category": "Gaming Keyboards",
+    "price": 2999
+  },
+  {
+    "id": 116,
+    "title": "Streaming Microphone Stand Gaming Setup",
+    "description": "Professional microphone stand with vibration isolation mount perfect for gaming and streaming setups.",
+    "category": "Gaming Accessories",
+    "price": 2499
+  },
+  {
+    "id": 117,
+    "title": "Gaming Monitor Brightness Auto-Adjust",
+    "description": "Gaming monitor with automatic brightness adjustment based on ambient light for reduced eye strain.",
+    "category": "Gaming Monitors",
+    "price": 11999
+  },
+  {
+    "id": 118,
+    "title": "Gaming Storage Drive External SSD",
+    "description": "High-speed external SSD for storing and loading games quickly. USB 3.1 interface for fast file transfers.",
+    "category": "Gaming Accessories",
+    "price": 5999
+  },
+  {
+    "id": 119,
+    "title": "Laptop Cooler Gaming Thermal Pad",
+    "description": "Passive laptop cooling pad using thermal materials to dissipate heat during intense gaming sessions.",
+    "category": "Gaming Accessories",
+    "price": 1499
+  },
+  {
+    "id": 120,
+    "title": "Gaming Keyboard Glorious GMMK",
+    "description": "Popular modular gaming keyboard with hot-swap switches and excellent build quality for serious gamers.",
+    "category": "Gaming Keyboards",
+    "price": 7999
+  },
+  {
+    "id": 121,
+    "title": "Budget Wireless Gaming Mouse 2.4GHz",
+    "description": "Affordable wireless gaming mouse with 2.4GHz connection and decent performance for casual gaming.",
+    "category": "Gaming Mice",
+    "price": 1299
+  },
+  {
+    "id": 122,
+    "title": "Gaming Keyboard With Numeric Keypad",
+    "description": "Full-size gaming keyboard with numeric keypad ideal for games requiring number key commands and productivity.",
+    "category": "Gaming Keyboards",
+    "price": 4799
+  },
+  {
+    "id": 123,
+    "title": "Gaming Chair with Headrest Pillow",
+    "description": "Gaming chair featuring integrated headrest pillow and lumbar support for maximum comfort during extended gaming.",
+    "category": "Gaming Chairs",
+    "price": 14999
+  },
+  {
+    "id": 124,
+    "title": "Gaming Desk with Cable Concealment",
+    "description": "Gaming desk featuring built-in cable management system with concealment channels for ultra-clean setup.",
+    "category": "Gaming Furniture",
+    "price": 18999
+  },
+  {
+    "id": 125,
+    "title": "Mechanical Keyboard Switch Puller",
+    "description": "Precision switch puller tool for safely removing mechanical switches without damaging keycaps or housing.",
+    "category": "Gaming Accessories",
+    "price": 399
+  },
+  {
+    "id": 126,
+    "title": "Gaming Monitor Stand Adjustable Height",
+    "description": "Adjustable monitor stand with height, tilt, and rotation adjustment for ergonomic gaming setup.",
+    "category": "Gaming Accessories",
+    "price": 4499
+  },
+  {
+    "id": 127,
+    "title": "Gaming Keyboard PBT Keycaps Durable",
+    "description": "Gaming keyboard featuring durable PBT keycaps with textured finish preventing keycap shine from extended use.",
+    "category": "Gaming Keyboards",
+    "price": 6399
+  },
+  {
+    "id": 128,
+    "title": "Budget Gaming Headset Basic Stereo",
+    "description": "Basic stereo gaming headset with simple controls perfect for casual gaming and voice chat.",
+    "category": "Gaming Headsets",
+    "price": 999
+  },
+  {
+    "id": 129,
+    "title": "Gaming Mouse with Paracord Cable",
+    "description": "Gaming mouse featuring lightweight paracord cable providing flexibility without cable drag.",
+    "category": "Gaming Mice",
+    "price": 2499
+  },
+  {
+    "id": 130,
+    "title": "Gaming Controller Charging Case",
+    "description": "Compact charging case for gaming controllers with built-in battery capacity for emergency charging.",
+    "category": "Gaming Accessories",
+    "price": 2299
+  },
+  {
+    "id": 131,
+    "title": "Mechanical Keyboard with RGB Underglow",
+    "description": "Gaming keyboard featuring RGB lighting on the bottom creating ambient underglow effect for gaming setups.",
+    "category": "Gaming Keyboards",
+    "price": 5899
+  },
+  {
+    "id": 132,
+    "title": "Gaming Monitor Height Adjustable",
+    "description": "Gaming monitor with full height, tilt, swivel, and pivot adjustment for ergonomic multi-monitor setups.",
+    "category": "Gaming Monitors",
+    "price": 17999
+  },
+  {
+    "id": 133,
+    "title": "Gaming Headset Wireless Charging",
+    "description": "Wireless gaming headset with wireless charging dock for convenience and cable-free charging experience.",
+    "category": "Gaming Headsets",
+    "price": 6299
+  },
+  {
+    "id": 134,
+    "title": "Gaming Mouse Mat Stitched Edges",
+    "description": "Large gaming mouse pad with stitched edges preventing fraying and providing smooth gaming surface.",
+    "category": "Gaming Accessories",
+    "price": 1699
+  },
+  {
+    "id": 135,
+    "title": "Gaming Keyboard Stabilizers Modular",
+    "description": "Modular stabilizer kit for gaming keyboards allowing easy replacement and customization of spacebar feel.",
+    "category": "Gaming Accessories",
+    "price": 1599
+  },
+  {
+    "id": 136,
+    "title": "Keyboard Mechanical Compact 61 Key",
+    "description": "Compact 61-key mechanical gaming keyboard maximizing portability without sacrificing core gaming keys.",
+    "category": "Gaming Keyboards",
+    "price": 3999
+  },
+  {
+    "id": 137,
+    "title": "Gaming Backpack Waterproof",
+    "description": "Waterproof gaming backpack with multiple compartments for gaming peripherals and protective padding for electronics.",
+    "category": "Gaming Accessories",
+    "price": 5499
+  },
+  {
+    "id": 138,
+    "title": "Gaming Laptop Cooling Pad Active",
+    "description": "Active gaming laptop cooler with multiple cooling fans and USB power for aggressive thermal management.",
+    "category": "Gaming Accessories",
+    "price": 3299
+  },
+  {
+    "id": 139,
+    "title": "Gaming Mouse Mousepad Bundle Deal",
+    "description": "Complete gaming mouse and mousepad bundle offering great value with matching aesthetics.",
+    "category": "Gaming Bundles",
+    "price": 3499
+  },
+  {
+    "id": 140,
+    "title": "Gaming Monitor Anti-Glare Screen",
+    "description": "Gaming monitor with matte anti-glare finish reducing reflections and eye strain during extended sessions.",
+    "category": "Gaming Monitors",
+    "price": 13999
+  },
+  {
+    "id": 141,
+    "title": "Mechanical Keyboard with Macro Pad",
+    "description": "Gaming keyboard with integrated macro pad featuring programmable keys for complex in-game commands.",
+    "category": "Gaming Keyboards",
+    "price": 7199
+  },
+  {
+    "id": 142,
+    "title": "Gaming Controller Trigger Lock",
+    "description": "Trigger lock accessory for gaming controllers allowing custom trigger sensitivity adjustment for shooter games.",
+    "category": "Gaming Accessories",
+    "price": 899
+  },
+  {
+    "id": 143,
+    "title": "Gaming Keyboard Optical Switches",
+    "description": "Gaming keyboard featuring optical mechanical switches with light-actuated technology for ultra-fast response.",
+    "category": "Gaming Keyboards",
+    "price": 7899
+  },
+  {
+    "id": 144,
+    "title": "Gaming Mouse with Side Grip Pads",
+    "description": "Gaming mouse featuring textured side grip pads improving control and reducing hand fatigue.",
+    "category": "Gaming Mice",
+    "price": 2799
+  },
+  {
+    "id": 145,
+    "title": "Gaming Headset Surround 5.1",
+    "description": "Gaming headset with 5.1 surround sound providing directional audio cues for tactical gaming advantage.",
+    "category": "Gaming Headsets",
+    "price": 3499
+  },
+  {
+    "id": 146,
+    "title": "Laptop Gaming Keyboard Portable",
+    "description": "Portable gaming keyboard designed for laptop gaming with compact layout and wireless connectivity.",
+    "category": "Gaming Keyboards",
+    "price": 3199
+  },
+  {
+    "id": 147,
+    "title": "Gaming Chair under Budget 10000",
+    "description": "Affordable gaming chair providing excellent ergonomic support at under ₹10000 price point.",
+    "category": "Gaming Chairs",
+    "price": 8999
+  },
+  {
+    "id": 148,
+    "title": "Gaming Monitor Curved 27 Inch",
+    "description": "Immersive curved gaming monitor with 27-inch screen providing wide field of view for enhanced gaming.",
+    "category": "Gaming Monitors",
+    "price": 16999
+  },
+  {
+    "id": 149,
+    "title": "Gaming Keyboard with Programmable Keys",
+    "description": "Advanced gaming keyboard featuring comprehensive programmable key system for complex gaming macros.",
+    "category": "Gaming Keyboards",
+    "price": 6699
+  },
+  {
+    "id": 150,
+    "title": "Gaming Mouse RGB Customization",
+    "description": "Gaming mouse with fully customizable RGB lighting synchronized with other gaming peripherals.",
+    "category": "Gaming Mice",
+    "price": 3099
+  },
+  {
+    "id": 151,
+    "title": "Budget Laptop Gaming",
+    "description": "Affordable gaming laptop offering decent gaming performance at a budget-friendly price point.",
+    "category": "Gaming Laptops",
+    "price": 45999
+  },
+  {
+    "id": 152,
+    "title": "Gaming Keyboard Compact Wireless",
+    "description": "Compact wireless gaming keyboard perfect for small desk spaces and portable gaming setups.",
+    "category": "Gaming Keyboards",
+    "price": 3699
+  },
+  {
+    "id": 153,
+    "title": "Gaming Monitor 1440p 144Hz",
+    "description": "High-resolution gaming monitor with 1440p display and 144Hz refresh rate for stunning visuals and smooth play.",
+    "category": "Gaming Monitors",
+    "price": 21999
+  },
+  {
+    "id": 154,
+    "title": "Gaming Chair Footrest Included",
+    "description": "Gaming chair with integrated footrest providing additional leg support and relaxation during long gaming.",
+    "category": "Gaming Chairs",
+    "price": 13999
+  },
+  {
+    "id": 155,
+    "title": "Gaming Keyboard Silent Mechanical",
+    "description": "Silent mechanical gaming keyboard using dampened switches for quiet gameplay ideal for shared spaces.",
+    "category": "Gaming Keyboards",
+    "price": 5699
+  },
+  {
+    "id": 156,
+    "title": "Gaming Mouse Budget Small Size",
+    "description": "Budget-friendly compact gaming mouse perfect for users with smaller hands and tight desk spaces.",
+    "category": "Gaming Mice",
+    "price": 899
+  },
+  {
+    "id": 157,
+    "title": "Gaming Headset with Detachable Mic",
+    "description": "Gaming headset featuring quick-detach microphone allowing use as music headphones when not gaming.",
+    "category": "Gaming Headsets",
+    "price": 2399
+  },
+  {
+    "id": 158,
+    "title": "Gaming Keyboard with Wireless Receiver",
+    "description": "Wireless gaming keyboard with USB receiver providing reliable connection without latency.",
+    "category": "Gaming Keyboards",
+    "price": 4599
+  },
+  {
+    "id": 159,
+    "title": "Gaming Controller Thumbstick Covers",
+    "description": "Replacement thumbstick covers for gaming controllers preventing wear and extending controller lifespan.",
+    "category": "Gaming Accessories",
+    "price": 599
+  },
+  {
+    "id": 160,
+    "title": "Gaming Monitor with USB Hub",
+    "description": "Gaming monitor with integrated USB hub allowing convenient device charging and connection.",
+    "category": "Gaming Monitors",
+    "price": 14999
+  },
+  {
+    "id": 161,
+    "title": "Gaming Setup for Beginners Bundle",
+    "description": "Comprehensive gaming setup bundle perfect for newcomers including all essential gaming peripherals.",
+    "category": "Gaming Bundles",
+    "price": 6999
+  },
+  {
+    "id": 162,
+    "title": "Gaming Keyboard Compact Mechanical",
+    "description": "Compact mechanical gaming keyboard ideal for esports players preferring minimalist workspace.",
+    "category": "Gaming Keyboards",
+    "price": 3899
+  },
+  {
+    "id": 163,
+    "title": "Gaming Mouse with Dock",
+    "description": "Gaming mouse complete with charging dock for wireless operation and convenient docking.",
+    "category": "Gaming Mice",
+    "price": 3699
+  },
+  {
+    "id": 164,
+    "title": "Gaming Headset for Mobile Gaming",
+    "description": "Gaming headset optimized for mobile gaming with lightweight design and excellent sound isolation.",
+    "category": "Gaming Headsets",
+    "price": 1699
+  },
+  {
+    "id": 165,
+    "title": "Gaming Chair Mesh Back",
+    "description": "Breathable gaming chair with mesh back providing superior ventilation for extended gaming sessions.",
+    "category": "Gaming Chairs",
+    "price": 10999
+  },
+  {
+    "id": 166,
+    "title": "Gaming Keyboard Keycap Removal Tool",
+    "description": "Essential keyboard maintenance tool for safe keycap removal and cleaning of mechanical keyboards.",
+    "category": "Gaming Accessories",
+    "price": 299
+  },
+  {
+    "id": 167,
+    "title": "Gaming Monitor Brightness Adjustment",
+    "description": "Gaming monitor with precise brightness adjustment for optimal viewing in different lighting conditions.",
+    "category": "Gaming Monitors",
+    "price": 10999
+  },
+  {
+    "id": 168,
+    "title": "Gaming Mouse Lift-Off Distance Control",
+    "description": "Gaming mouse with adjustable lift-off distance providing precise control for different gaming scenarios.",
+    "category": "Gaming Mice",
+    "price": 2899
+  },
+  {
+    "id": 169,
+    "title": "Gaming Keyboard Wireless Mechanical",
+    "description": "Wireless mechanical gaming keyboard combining cable-free convenience with responsive mechanical switches.",
+    "category": "Gaming Keyboards",
+    "price": 6799
+  },
+  {
+    "id": 170,
+    "title": "Gaming Monitor 4K Display Premium",
+    "description": "Premium 4K gaming monitor with HDR support delivering ultra-clear visuals for immersive gaming.",
+    "category": "Gaming Monitors",
+    "price": 38999
+  },
+  {
+    "id": 171,
+    "title": "Gaming Headset Bass Boosted",
+    "description": "Gaming headset with enhanced bass response providing immersive audio for action-packed games.",
+    "category": "Gaming Headsets",
+    "price": 3199
+  },
+  {
+    "id": 172,
+    "title": "Gaming Keyboard Barebone Kit",
+    "description": "Gaming keyboard barebone without switches and keycaps allowing custom switch and keycap selection.",
+    "category": "Gaming Keyboards",
+    "price": 4299
+  },
+  {
+    "id": 173,
+    "title": "Gaming Mouse Sensor Comparison",
+    "description": "Gaming mouse with premium sensor providing superior tracking accuracy for competitive gaming.",
+    "category": "Gaming Mice",
+    "price": 3399
+  },
+  {
+    "id": 174,
+    "title": "Gaming Controller Vibration Feedback",
+    "description": "Gaming controller with advanced haptic vibration feedback enhancing immersion and game feel.",
+    "category": "Gaming Controllers",
+    "price": 4899
+  },
+  {
+    "id": 175,
+    "title": "Gaming Desk with Monitor Mount",
+    "description": "Spacious gaming desk with integrated monitor mounting system for organized cable management.",
+    "category": "Gaming Furniture",
+    "price": 21999
+  },
+  {
+    "id": 176,
+    "title": "Gaming Keyboard Numpad Wireless",
+    "description": "Standalone wireless numpad keyboard accessory for quick number input during gaming.",
+    "category": "Gaming Accessories",
+    "price": 1999
+  },
+  {
+    "id": 177,
+    "title": "Gaming Monitor Stand with Storage",
+    "description": "Monitor stand with built-in storage compartments for organizing gaming peripherals and accessories.",
+    "category": "Gaming Furniture",
+    "price": 5999
+  },
+  {
+    "id": 178,
+    "title": "Gaming Headset Microphone Noise Gate",
+    "description": "Gaming headset with advanced noise gate filtering background noise for clear team communication.",
+    "category": "Gaming Headsets",
+    "price": 4699
+  },
+  {
+    "id": 179,
+    "title": "Gaming Mouse Acceleration Control",
+    "description": "Gaming mouse with customizable acceleration settings for precise control tuning.",
+    "category": "Gaming Mice",
+    "price": 2199
+  },
+  {
+    "id": 180,
+    "title": "Gaming Keyboard Switch Sampler Kit",
+    "description": "Comprehensive mechanical switch sampler kit allowing testing of various switch types before purchase.",
+    "category": "Gaming Accessories",
+    "price": 899
+  },
+  {
+    "id": 181,
+    "title": "Gaming Chair Height Adjustable",
+    "description": "Gaming chair with extensive height adjustment range accommodating users of all sizes.",
+    "category": "Gaming Chairs",
+    "price": 9999
+  },
+  {
+    "id": 182,
+    "title": "Gaming Monitor Curved Ultrawide",
+    "description": "Ultrawide curved gaming monitor providing panoramic gaming experience with extended field of view.",
+    "category": "Gaming Monitors",
+    "price": 42999
+  },
+  {
+    "id": 183,
+    "title": "Gaming Controller Wireless Receiver",
+    "description": "Extra wireless receiver for gaming controllers enabling seamless connectivity and backup receiver.",
+    "category": "Gaming Accessories",
+    "price": 1299
+  },
+  {
+    "id": 184,
+    "title": "Gaming Keyboard Artisan Keycaps",
+    "description": "Custom artisan keycap set for gaming keyboards featuring unique artistic designs and premium materials.",
+    "category": "Gaming Accessories",
+    "price": 3899
+  },
+  {
+    "id": 185,
+    "title": "Gaming Headset Virtual 7.1 Surround",
+    "description": "Gaming headset with virtual 7.1 surround sound simulation through digital processing.",
+    "category": "Gaming Headsets",
+    "price": 2999
+  },
+  {
+    "id": 186,
+    "title": "Gaming Mouse Polling Rate Adjustable",
+    "description": "Gaming mouse with adjustable polling rate allowing optimization for different game genres.",
+    "category": "Gaming Mice",
+    "price": 2599
+  },
+  {
+    "id": 187,
+    "title": "Gaming Keyboard ABS Keycaps Double-Shot",
+    "description": "Gaming keyboard with double-shot ABS keycaps preventing legend fade from extended use.",
+    "category": "Gaming Keyboards",
+    "price": 4999
+  },
+  {
+    "id": 188,
+    "title": "Gaming Monitor Color Accurate Panel",
+    "description": "Gaming monitor with color-accurate panel ideal for content creation alongside gaming.",
+    "category": "Gaming Monitors",
+    "price": 19999
+  },
+  {
+    "id": 189,
+    "title": "Gaming Chair Swivel Base",
+    "description": "Gaming chair with smooth swivel base and lockable casters for mobility control.",
+    "category": "Gaming Chairs",
+    "price": 11999
+  },
+  {
+    "id": 190,
+    "title": "Gaming Laptop 16GB RAM",
+    "description": "Gaming laptop with 16GB RAM sufficient for most modern gaming and multitasking needs.",
+    "category": "Gaming Laptops",
+    "price": 69999
+  },
+  {
+    "id": 191,
+    "title": "Gaming Desktop High-End",
+    "description": "High-performance gaming desktop with top-tier components for 4K gaming and content creation.",
+    "category": "Gaming Desktops",
+    "price": 199999
+  },
+  {
+    "id": 192,
+    "title": "Gaming Keyboard Thiccc Keycaps",
+    "description": "Premium thick keycap set providing premium feel and durability for gaming keyboards.",
+    "category": "Gaming Accessories",
+    "price": 2599
+  },
+  {
+    "id": 193,
+    "title": "Gaming Monitor Response Time 1ms",
+    "description": "Gaming monitor with blazing-fast 1ms response time eliminating motion blur in competitive gaming.",
+    "category": "Gaming Monitors",
+    "price": 11999
+  },
+  {
+    "id": 194,
+    "title": "Gaming Keyboard Stabilizer Upgrade Kit",
+    "description": "Performance stabilizer upgrade kit for gaming keyboards enhancing spacebar and modifier key feel.",
+    "category": "Gaming Accessories",
+    "price": 1699
+  },
+  {
+    "id": 195,
+    "title": "Gaming Mouse Skates PTFE",
+    "description": "Replacement PTFE skates for gaming mouse providing smooth gliding across mousepad.",
+    "category": "Gaming Accessories",
+    "price": 499
+  },
+  {
+    "id": 196,
+    "title": "Gaming Headset Virtual Surround 7.1",
+    "description": "Gaming headset simulating 7.1 surround through advanced audio algorithms for spatial awareness.",
+    "category": "Gaming Headsets",
+    "price": 3099
+  },
+  {
+    "id": 197,
+    "title": "Gaming Controller Button Mapping",
+    "description": "Gaming controller with customizable button mapping for personalized game control schemes.",
+    "category": "Gaming Controllers",
+    "price": 3999
+  },
+  {
+    "id": 198,
+    "title": "Gaming Keyboard Cable Coiled",
+    "description": "Gaming keyboard with stylish coiled USB cable adding aesthetic appeal to gaming setup.",
+    "category": "Gaming Keyboards",
+    "price": 3599
+  },
+  {
+    "id": 199,
+    "title": "Gaming Monitor FreeSync Technology",
+    "description": "Gaming monitor with AMD FreeSync technology eliminating screen tearing for smooth gaming.",
+    "category": "Gaming Monitors",
+    "price": 13999
+  },
+  {
+    "id": 200,
+    "title": "Gaming Chair Neck Support Pillow",
+    "description": "Gaming chair with premium neck support pillow reducing strain during extended gaming marathons.",
+    "category": "Gaming Chairs",
+    "price": 15999
+  },
+  {
+    "id": 201,
+    "title": "Gaming Mouse Ultra-Light Under 60g",
+    "description": "Ultra-lightweight gaming mouse under 60 grams reducing fatigue during competitive gaming.",
+    "category": "Gaming Mice",
+    "price": 4499
+  },
+  {
+    "id": 202,
+    "title": "Gaming Keyboard Custom Keyset",
+    "description": "Gaming keyboard with custom keyset design offering unique aesthetic for personalized gaming setup.",
+    "category": "Gaming Keyboards",
+    "price": 3299
+  },
+  {
+    "id": 203,
+    "title": "Gaming Headset Boom Arm Standalone",
+    "description": "Standalone boom arm accessory for gaming headsets providing flexible microphone positioning.",
+    "category": "Gaming Accessories",
+    "price": 1599
+  },
+  {
+    "id": 204,
+    "title": "Gaming Monitor USB-C Connectivity",
+    "description": "Gaming monitor with USB-C connector providing single-cable connectivity for modern laptops.",
+    "category": "Gaming Monitors",
+    "price": 22999
+  },
+  {
+    "id": 205,
+    "title": "Gaming Controller Hall Effect Joysticks",
+    "description": "Gaming controller with advanced hall effect joysticks eliminating stick drift for extended longevity.",
+    "category": "Gaming Controllers",
+    "price": 5299
+  },
+  {
+    "id": 206,
+    "title": "Gaming Keyboard Wireless Charging",
+    "description": "Innovative wireless gaming keyboard with wireless charging capability for cable-free operation.",
+    "category": "Gaming Keyboards",
+    "price": 7699
+  },
+  {
+    "id": 207,
+    "title": "Gaming Mouse Ambidextrous Lightweight",
+    "description": "Ambidextrous lightweight gaming mouse suitable for both left and right-handed players.",
+    "category": "Gaming Mice",
+    "price": 2399
+  },
+  {
+    "id": 208,
+    "title": "Gaming Headset Memory Foam Ear Cups",
+    "description": "Gaming headset with premium memory foam ear cups adapting to head shape for ultimate comfort.",
+    "category": "Gaming Headsets",
+    "price": 4399
+  },
+  {
+    "id": 209,
+    "title": "Gaming Keyboard Case Hard Protective",
+    "description": "Professional hard case for gaming keyboards protecting equipment during travel and storage.",
+    "category": "Gaming Accessories",
+    "price": 3299
+  },
+  {
+    "id": 210,
+    "title": "Gaming Monitor Mini LED Display",
+    "description": "Gaming monitor with advanced mini LED technology delivering superior contrast and color accuracy.",
+    "category": "Gaming Monitors",
+    "price": 28999
+  },
+  {
+    "id": 211,
+    "title": "Gaming Chair Lumbar Support Adjustable",
+    "description": "Gaming chair with customizable lumbar support adjustment for personalized back comfort.",
+    "category": "Gaming Chairs",
+    "price": 12999
+  },
+  {
+    "id": 212,
+    "title": "Gaming Laptop RTX 3060 Budget",
+    "description": "Budget gaming laptop with RTX 3060 GPU offering solid 1080p gaming performance.",
+    "category": "Gaming Laptops",
+    "price": 55999
+  },
+  {
+    "id": 213,
+    "title": "Gaming Desktop Streaming Workstation",
+    "description": "High-performance desktop workstation combining gaming and content streaming capabilities.",
+    "category": "Gaming Desktops",
+    "price": 149999
+  },
+  {
+    "id": 214,
+    "title": "Gaming Keyboard Wireless Charging Pad",
+    "description": "Wireless charging pad accessory for gaming keyboards supporting cable-free power delivery.",
+    "category": "Gaming Accessories",
+    "price": 1899
+  },
+  {
+    "id": 215,
+    "title": "Gaming Mouse Grip Tape Textured",
+    "description": "Textured grip tape accessory for gaming mouse improving control and reducing slipping.",
+    "category": "Gaming Accessories",
+    "price": 599
+  },
+  {
+    "id": 216,
+    "title": "Gaming Headset Passive Noise Isolation",
+    "description": "Gaming headset with passive noise isolation providing distraction-free gaming environment.",
+    "category": "Gaming Headsets",
+    "price": 2799
+  },
+  {
+    "id": 217,
+    "title": "Gaming Controller Programmable Pad",
+    "description": "Gaming controller with comprehensive programmable button and trigger pad for custom control schemes.",
+    "category": "Gaming Controllers",
+    "price": 4699
+  },
+  {
+    "id": 218,
+    "title": "Gaming Keyboard Stainless Steel Switches",
+    "description": "Gaming keyboard featuring premium stainless steel mechanical switches for superior durability.",
+    "category": "Gaming Keyboards",
+    "price": 8599
+  },
+  {
+    "id": 219,
+    "title": "Gaming Monitor LED Backlight Array",
+    "description": "Gaming monitor with full-array LED backlighting enabling local dimming for superior contrast.",
+    "category": "Gaming Monitors",
+    "price": 32999
+  },
+  {
+    "id": 220,
+    "title": "Gaming Mouse Under 2000 Budget",
+    "description": "Budget gaming mouse offering excellent performance under ₹2000 price point.",
+    "category": "Gaming Mice",
+    "price": 1499
+  },
+  {
+    "id": 221,
+    "title": "Gaming Keyboard RGB Lighting Effects",
+    "description": "Gaming keyboard with advanced RGB lighting effects and customization software.",
+    "category": "Gaming Keyboards",
+    "price": 3999
+  },
+  {
+    "id": 222,
+    "title": "Gaming Headset Closed Back Design",
+    "description": "Gaming headset with closed back design providing excellent sound isolation and bass response.",
+    "category": "Gaming Headsets",
+    "price": 3699
+  },
+  {
+    "id": 223,
+    "title": "Gaming Chair with Armrest Padding",
+    "description": "Gaming chair featuring padded armrests providing arm support during extended gaming sessions.",
+    "category": "Gaming Chairs",
+    "price": 10999
+  },
+  {
+    "id": 224,
+    "title": "Gaming Keyboard Compact Layout",
+    "description": "Gaming keyboard with space-saving compact layout perfect for portable gaming setups.",
+    "category": "Gaming Keyboards",
+    "price": 2999
+  },
+  {
+    "id": 225,
+    "title": "Gaming Monitor IPS Panel Colors",
+    "description": "Gaming monitor with IPS panel providing wide viewing angles and accurate color reproduction.",
+    "category": "Gaming Monitors",
+    "price": 14999
+  }
+]

@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sentence-transformers
+rank_bm25
+qdrant-client
+pydantic
+python-multipart
+pytest
+httpx
+google-genai
+python-dotenv
