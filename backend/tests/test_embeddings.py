@@ -30,13 +30,23 @@ class FakeQdrantClient:
         self.hits = hits or []
         self.recreate_args = None
         self.upsert_args = None
-        self.search_args = None
+        self.query_points_args = None
 
     def recreate_collection(self, **kwargs):
         self.recreate_args = kwargs
 
     def upsert(self, **kwargs):
         self.upsert_args = kwargs
+
+    def query_points(self, **kwargs):
+        self.query_points_args = kwargs
+        return SimpleNamespace(points=self.hits)
+
+
+class LegacyFakeQdrantClient:
+    def __init__(self, hits=None):
+        self.hits = hits or []
+        self.search_args = None
 
     def search(self, **kwargs):
         self.search_args = kwargs
@@ -85,7 +95,8 @@ def test_search_encodes_query_with_bge_retrieval_instruction():
     index.search("quiet keyboard", top_k=3)
 
     assert model.calls == [(QUERY_INSTRUCTION + "quiet keyboard", False)]
-    assert client.search_args["limit"] == 3
+    assert client.query_points_args["limit"] == 3
+    assert client.query_points_args["query"] == [0.5, 0.5]
 
 
 def test_search_returns_ranked_product_id_rank_score_tuples():
@@ -102,3 +113,14 @@ def test_search_returns_ranked_product_id_rank_score_tuples():
         (12, 1, 0.92),
         (4, 2, 0.81),
     ]
+
+
+def test_search_supports_legacy_qdrant_client_search_api():
+    model = RecordingModel()
+    client = LegacyFakeQdrantClient(
+        hits=[SimpleNamespace(payload={"product_id": 8}, score=0.75)]
+    )
+    index = EmbeddingIndex(client=client, model=model)
+
+    assert index.search("controller") == [(8, 1, 0.75)]
+    assert client.search_args["query_vector"] == [0.5, 0.5]

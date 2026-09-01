@@ -80,11 +80,24 @@ class EmbeddingIndex:
             QUERY_INSTRUCTION + query,
             show_progress_bar=False,
         ).tolist()
-        hits = self.client.search(
-            collection_name=COLLECTION_NAME,
-            query_vector=query_vector,
-            limit=top_k,
-        )
+        query_points = getattr(self.client, "query_points", None)
+        if callable(query_points):
+            # qdrant-client 1.10+ consolidated vector search under
+            # query_points() and wraps matches in QueryResponse.points.
+            response = query_points(
+                collection_name=COLLECTION_NAME,
+                query=query_vector,
+                limit=top_k,
+            )
+            hits = response.points
+        else:
+            # Retain compatibility with older qdrant-client releases and
+            # simple test doubles that expose the former search() API.
+            hits = self.client.search(
+                collection_name=COLLECTION_NAME,
+                query_vector=query_vector,
+                limit=top_k,
+            )
         return [
             (hit.payload["product_id"], rank, float(hit.score))
             for rank, hit in enumerate(hits, start=1)
